@@ -1,0 +1,19 @@
+.back{
+    background-color: white;
+  
+}
+.formuser{
+    border : 2px solid white;
+    border-radius: 20px;
+    width:450px;
+    height: 350px;
+    margin-left: 550px;
+    margin-top: 80px;
+    background-color: whitesmoke;
+}
+.newdiv{
+    border : 2px solid whitesmoke;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    margin-top: 50px;
+}

@@ -1,0 +1,21 @@
+.signuser{
+    background-image: url(https://wallpapercave.com/wp/wp3487924.jpg);
+    height: 650px;
+background-size: 100%;
+}
+.signusers{
+    border : 2px solid white;
+    border-radius: 10px;
+    width:500px;
+    height: 500px;
+    margin-left: 150px;
+    background-color:whitesmoke;
+    
+}
+h4{
+    color: black;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
